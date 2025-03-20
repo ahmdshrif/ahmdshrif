@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m @ahmdshrif
 - 👀 I’m interested in JS/TS, React/ React Native 
-- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on Any js project 
 
 
