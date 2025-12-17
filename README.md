@@ -15,8 +15,7 @@
 
 Senior Software Architect with **6+ years** of experience designing and building high-performance mobile applications, SDKs, and Web3/blockchain infrastructure. I specialize in architecting systems that scale, mentoring engineering teams, and delivering production-grade solutions in React Native, TypeScript, and Go.
 
-Currently exploring **remote opportunities** to collaborate on innovative projects in mobile development, blockchain infrastructure, and distributed systems.
-
+Currently exploring **remote opportunities** to collaborate on innovative projects in mobile development, SDK development
 ---
 
 ## 💼 Core Expertise
