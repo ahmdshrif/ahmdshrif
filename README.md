@@ -13,9 +13,8 @@
 
 ## 🚀 About Me
 
-Senior Software Architect with **6+ years** of experience designing and building high-performance mobile applications, SDKs, and Web3/blockchain infrastructure. I specialize in architecting systems that scale, mentoring engineering teams, and delivering production-grade solutions in React Native, TypeScript, and Go.
+Senior Software Architect with **6+ years** of experience designing and building high-performance mobile applications, SDKs, and Web3. I specialize in architecting systems that scale, mentoring engineering teams, and delivering production-grade solutions in React Native, TypeScript, and nodeJS.
 
-Currently exploring **remote opportunities** to collaborate on innovative projects in mobile development, SDK development
 ---
 
 ## 💼 Core Expertise
@@ -34,24 +33,7 @@ Currently exploring **remote opportunities** to collaborate on innovative projec
 - **Performance Monitoring** - Real-time crash analytics, performance metrics
 - **Deep Linking & State Management** - Redux, Context API, custom state solutions
 
-### 🛠️ Backend & Infrastructure
-- **Google Cloud Platform (GCP)** - Cloud Functions, Pub/Sub, Firestore
-- **Firebase** - Real-time databases, authentication, and serverless functions
-- **System Design** - Database optimization, caching strategies, API design
 
----
-
-## 🎯 Professional Experience
-
-### Senior Software Architect
-Developing production-grade systems across multiple domains:
-- **Vodafone** - Built analytics and crash reporting SDKs for mobile applications
-- **Expensify** - Developed monitoring and performance tracking systems
-- **Portal** - Architected RN blockchain wallet app
-
----
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
