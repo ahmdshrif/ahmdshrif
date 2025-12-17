@@ -122,7 +122,7 @@ Stay updated with the latest trends:
 ## 📫 Let's Connect
 
 - 💼 **LinkedIn**: [linkedin.com/in/ahmdsherif](https://linkedin.com/in/ahmdsherif/)
-- 💻 **GitHub**: [@ahmdshrif](https://github.com/ahmdshrif)
+- 💻 **GitHub**: [@ahmdshrif](https://github.com/in/ahmdshrif)
 - 📧 **Available for**: Freelance projects, consulting, full-time remote roles
 
 ---
