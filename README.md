@@ -27,11 +27,7 @@ Currently exploring **remote opportunities** to collaborate on innovative projec
 - **SDK Development** - Analytics, crash reporting, and monitoring SDKs (Sentry/Instabug-like systems)
 - **Performance Optimization** - Memory management, bundle optimization, and real-time data handling
 
-### ⛓️ Web3 & Blockchain
-- **Blockchain Integration** - Smart contract interactions and Web3 wallet infrastructure
-- **Advanced Patterns** - MPC-TSS (Multi-Party Computation), TEE (Trusted Execution Environments), seedless wallets
-- **DeFi Systems** - Protocol integration and secure transaction handling
-- **Cryptocurrency Markets** - Real-time market analysis and trading systems
+
 
 ### 📱 Mobile Development
 - **React Native** - Cross-platform iOS/Android development
@@ -40,7 +36,6 @@ Currently exploring **remote opportunities** to collaborate on innovative projec
 - **Deep Linking & State Management** - Redux, Context API, custom state solutions
 
 ### 🛠️ Backend & Infrastructure
-- **Go** - Microservices, CLI tools, and backend systems
 - **Google Cloud Platform (GCP)** - Cloud Functions, Pub/Sub, Firestore
 - **Firebase** - Real-time databases, authentication, and serverless functions
 - **System Design** - Database optimization, caching strategies, API design
@@ -53,8 +48,7 @@ Currently exploring **remote opportunities** to collaborate on innovative projec
 Developing production-grade systems across multiple domains:
 - **Vodafone** - Built analytics and crash reporting SDKs for mobile applications
 - **Expensify** - Developed monitoring and performance tracking systems
-- **Portal (Google)** - Architected blockchain wallet infrastructure and Web3 integration
-- **Antigravity** - Built robotics and real-time data systems
+- **Portal** - Architected RN blockchain wallet app
 
 ---
 
@@ -121,8 +115,8 @@ Stay updated with the latest trends:
 
 ## 📫 Let's Connect
 
-- 💼 **LinkedIn**: [linkedin.com/in/ahmdsherif](https://linkedin.com/in/ahmdsherif/)
-- 💻 **GitHub**: [@ahmdshrif](https://github.com/in/ahmdshrif)
+- 💼 **LinkedIn**: [linkedin.com/in/ahmdsherif](https://www.linkedin.com/in/ahmdshrif/)
+- 💻 **GitHub**: [@ahmdshrif](https://github.com/ahmdshrif)
 - 📧 **Available for**: Freelance projects, consulting, full-time remote roles
 
 ---
