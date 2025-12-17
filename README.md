@@ -1,17 +1,136 @@
-<h1 align="center">Hi 👋, I'm Ahmed Sherif</h1>
+# 👋 Ahmed Sherif | Senior Software Architect & React Native Engineer
 
-- 👋 Hi, I’m @ahmdshrif
-- 👀 I’m interested in JS/TS, React/ React Native 
-- 💞️ I’m looking to collaborate on Any js project 
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmdsherif/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmdshrif)
 
-<!---
-ahmdshrif/ahmdshrif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Building scalable mobile solutions and Web3 infrastructure for the future**
 
-<!-- <h3 align="center">A passionate Software Engineer from EGYPT</h3> -->
+</div>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+
+Senior Software Architect with **6+ years** of experience designing and building high-performance mobile applications, SDKs, and Web3/blockchain infrastructure. I specialize in architecting systems that scale, mentoring engineering teams, and delivering production-grade solutions in React Native, TypeScript, and Go.
+
+Currently exploring **remote opportunities** to collaborate on innovative projects in mobile development, blockchain infrastructure, and distributed systems.
+
+---
+
+## 💼 Core Expertise
+
+### 🏗️ Architecture & System Design
+- **High-Level System Design (HLD)** - Designing scalable microservices and distributed systems
+- **Mobile Architecture** - Building modular, testable React Native applications
+- **SDK Development** - Analytics, crash reporting, and monitoring SDKs (Sentry/Instabug-like systems)
+- **Performance Optimization** - Memory management, bundle optimization, and real-time data handling
+
+### ⛓️ Web3 & Blockchain
+- **Blockchain Integration** - Smart contract interactions and Web3 wallet infrastructure
+- **Advanced Patterns** - MPC-TSS (Multi-Party Computation), TEE (Trusted Execution Environments), seedless wallets
+- **DeFi Systems** - Protocol integration and secure transaction handling
+- **Cryptocurrency Markets** - Real-time market analysis and trading systems
+
+### 📱 Mobile Development
+- **React Native** - Cross-platform iOS/Android development
+- **TypeScript/JavaScript** - Modern ES6+, functional programming, design patterns
+- **Performance Monitoring** - Real-time crash analytics, performance metrics
+- **Deep Linking & State Management** - Redux, Context API, custom state solutions
+
+### 🛠️ Backend & Infrastructure
+- **Go** - Microservices, CLI tools, and backend systems
+- **Google Cloud Platform (GCP)** - Cloud Functions, Pub/Sub, Firestore
+- **Firebase** - Real-time databases, authentication, and serverless functions
+- **System Design** - Database optimization, caching strategies, API design
+
+---
+
+## 🎯 Professional Experience
+
+### Senior Software Architect
+Developing production-grade systems across multiple domains:
+- **Vodafone** - Built analytics and crash reporting SDKs for mobile applications
+- **Expensify** - Developed monitoring and performance tracking systems
+- **Portal (Google)** - Architected blockchain wallet infrastructure and Web3 integration
+- **Antigravity** - Built robotics and real-time data systems
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Frameworks & Platforms
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### Cloud & DevOps
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### Blockchain & Web3
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **search-algorithm** | Efficient search implementations with analysis | Python |
+| **practice_hashcode2020** | Hash Code 2020 competition solution | Python |
+| **Book-Tracking-App** | Personal book management system | JavaScript |
+| **MySolution-to-Google-KickStart2020** | Google KickStart competition solution | Python |
+
+---
+
+## 🎓 Continuous Learning
+
+Stay updated with the latest trends:
+- 🔗 **Advanced Web3 Patterns** - Deep-diving into seedless wallets and MPC-TSS architecture
+- 🤖 **AI/ML Integration** - Exploring AI agents and RAG systems for automation
+- 📊 **Real Estate Analytics** - Building analysis models and investment strategies
+- 🚀 **System Design Mastery** - High-level design patterns for distributed systems
+
+---
+
+## 💡 What I'm Looking For
+
+✅ Remote opportunities with **global teams**  
+✅ Projects involving **React Native, Web3, or blockchain infrastructure**  
+✅ **System architecture design** challenges  
+✅ Building teams and **mentoring** engineers  
+✅ Innovation in **mobile-first solutions**  
+
+---
+
+## 📫 Let's Connect
+
+- 💼 **LinkedIn**: [linkedin.com/in/ahmdsherif](https://linkedin.com/in/ahmdsherif/)
+- 💻 **GitHub**: [@ahmdshrif](https://github.com/ahmdshrif)
+- 📧 **Available for**: Freelance projects, consulting, full-time remote roles
+
+---
+
+<div align="center">
+
+### 🌟 Open to collaborating on innovative projects!
+
+**Let's build something amazing together.**
+
+</div>
