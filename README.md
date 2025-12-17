@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmdsherif/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmdshrif)
 
-**Building scalable mobile solutions and Web3 infrastructure for the future**
+**Building scalable mobile solutions for the future**
 
 </div>
 
