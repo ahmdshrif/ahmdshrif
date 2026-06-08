@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-Senior Software Architect with **6+ years** of experience designing and building high-performance mobile applications, SDKs, and Web3. I specialize in architecting systems that scale, mentoring engineering teams, and delivering production-grade solutions in React Native, TypeScript, and nodeJS.
+Senior Software Architect with **7+ years** of experience designing and building high-performance mobile applications, SDKs, and Web3. I specialize in architecting systems that scale, mentoring engineering teams, and delivering production-grade solutions in React Native, TypeScript, and nodeJS.
 
 ---
 
